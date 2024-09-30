@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+ }
+
+ .container-full {
+    width: 100%;
+    margin:auto;
+    background-color: white;
+ }
+
+ .row {
+    display: flex;
+ }
+
+ .display-flex{
+    display: flex;
+    color: orange;
+ }
+
+ .justify-start > * {
+    justify-content: flex-start;
+ }
+
